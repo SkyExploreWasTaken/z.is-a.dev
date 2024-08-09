@@ -1,4 +1,4 @@
-# a.is-a.dev (possibly actually SkyExploreWasTaken.github.io)
+# [z.is-a.dev](https://z.is-a.dev)
 
 Redirect/Host domain for sewt.is-a.dev owner : images/icons/css/js.
 ⚠ : Base link ( without any parameter ) will redirect to sewt.is-a.dev page.
