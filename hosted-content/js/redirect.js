@@ -18,7 +18,7 @@ document.addEventListener("DOMContentLoaded", function() {
         'none': '?link=none'
     };
 
-    const defaultRedirection = 'https://sewt.is-a.dev';
+    const defaultRedirection = 'https://sewt.is-a.dev/pages/z.is-a.dev.html';
 
     const queryParams = getQueryParams();
 
