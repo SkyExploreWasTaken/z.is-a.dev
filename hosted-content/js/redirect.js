@@ -34,5 +34,5 @@ document.addEventListener("DOMContentLoaded", function() {
     // Redirect after 2 seconds
     setTimeout(function() {
         window.location.href = targetUrl;
-    }, 2000);
+    }, 3000);
 });
