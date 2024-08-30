@@ -2,7 +2,6 @@ const scripts = [
     'https://z.is-a.dev/hosted-content/js/particles.js',
     'https://z.is-a.dev/hosted-content/js/config.js',
     'https://kit.fontawesome.com/dbecdae410.js'
-    // Ajoutez autant de fichiers que nécessaire
 ];
 function loadScript(src, callback) {
     const script = document.createElement('script');
