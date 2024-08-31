@@ -1,4 +1,4 @@
-document.addEventListener("DOMContentLoaded", function() {
+document.addEventListener("DOMContentLoaded", function () {
     function getQueryParams() {
         const params = {};
         const queryString = window.location.search.substring(1);
@@ -32,7 +32,7 @@ document.addEventListener("DOMContentLoaded", function() {
     }
 
     // Redirect after 2 seconds
-    setTimeout(function() {
+    setTimeout(function () {
         window.location.href = targetUrl;
     }, 3000);
 });

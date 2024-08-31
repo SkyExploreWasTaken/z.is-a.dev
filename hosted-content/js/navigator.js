@@ -12,5 +12,5 @@ document.getElementById("appversion").innerText = "Browser appVersion is : " + a
 document.getElementById("language").innerText = "Browser language is : " + language
 document.getElementById("online").innerText = "Is the browser online : " + onLine;
 document.getElementById("platform").innerText = "Browser platform : " + platform;
-document.getElementById("product").innerText = "Browser engine name : " + product ;
+document.getElementById("product").innerText = "Browser engine name : " + product;
 document.getElementById("useragent").innerText = "Browser user-agent header : " + userAgent;

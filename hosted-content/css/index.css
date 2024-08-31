@@ -2,16 +2,19 @@
     font-family: Meyrin, serif;
     font-size: 1.5em;
 }
+
 .cc-img {
-    height: 22px!important;
-    margin-left:3px;
-    vertical-align:text-bottom;
+    height: 22px !important;
+    margin-left: 3px;
+    vertical-align: text-bottom;
 }
+
 .Inter {
     font-family: InterVariable, sans-serif;
     font-style: normal;
     font-weight: 500;
 }
+
 .footer {
     z-index: 1;
     border: 3px solid green;

@@ -1,7 +1,7 @@
-document.addEventListener("DOMContentLoaded", function() {
+document.addEventListener("DOMContentLoaded", function () {
     // Sélectionne tous les éléments avec la classe "code"
     const codeElements = document.querySelectorAll('.blink');
-    
+
     // Fonction pour alterner la visibilité des éléments
     function toggleVisibility() {
         codeElements.forEach(element => {
@@ -12,7 +12,7 @@ document.addEventListener("DOMContentLoaded", function() {
             }
         });
     }
-    
+
     // Définit l'intervalle de clignotement (par exemple, toutes les 500 ms)
     setInterval(toggleVisibility, 500);
 });
